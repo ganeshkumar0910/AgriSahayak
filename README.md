@@ -83,12 +83,7 @@ To get a local copy up and running, follow these simple steps.
 
 ---
 
-## 📸 Screenshots & Usage
-
-> **Note:** To add your own screenshots, place them in an `assets` folder and update the links below!
-
-
-
+## Usage
 1. Start the bot by sending `/start` on Telegram.
 2. Select your preferred language.
 3. Choose a topic from the interactive keyboard or simply type your question.
