@@ -1,0 +1,16 @@
+{
+  "name": "agrisahayak",
+  "version": "1.0.0",
+  "description": "AI Powered Agriculture Telegram Bot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "author": "Ganesh Kumar",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.11.0",
+    "dotenv": "^17.2.1",
+    "node-telegram-bot-api": "^0.66.0"
+  }
+}
