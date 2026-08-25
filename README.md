@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://img.freepik.com/free-vector/smart-farming-concept_23-2148443900.jpg" alt="AgriSahayak Banner" width="400" />
   
   # 🌱 AgriSahayak
   
@@ -88,13 +87,7 @@ To get a local copy up and running, follow these simple steps.
 
 > **Note:** To add your own screenshots, place them in an `assets` folder and update the links below!
 
-<div align="center">
-  <img src="https://via.placeholder.com/250x500.png?text=Bot+Welcome+Screen" alt="Welcome Screen" width="250" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://via.placeholder.com/250x500.png?text=Weather+Query" alt="Weather Query" width="250" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://via.placeholder.com/250x500.png?text=Crop+Guidance" alt="Crop Guidance" width="250" />
-</div>
+
 
 1. Start the bot by sending `/start` on Telegram.
 2. Select your preferred language.
